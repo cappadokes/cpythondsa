@@ -1,0 +1,5 @@
+#!/home/cappadokes/Desktop/phD/y345/research/pymm/samos22/naked_debug/tmp/prefix/bin/python3.10
+
+from idlelib.pyshell import main
+if __name__ == '__main__':
+    main()
